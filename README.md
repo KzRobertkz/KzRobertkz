@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">socials</h2><br>
+  <h2 align="center">Socials</h2><br>
   <a href="https://www.linkedin.com/in/robert-christian-079313306/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=robert.44azz@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div><br>
