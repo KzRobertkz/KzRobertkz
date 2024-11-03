@@ -35,3 +35,10 @@
 ##
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Difficulties%20prepare%20ordinary%20people%20for%20extraordinary%20destinies.&author=C.S%20Lewis)](https://kzrobertkz.github.io/Dev_links/)
+
+
+<div align=center style="display: inline_block">
+  <a href="https://kzrobertkz.github.io/Dev_links/">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Difficulties%20prepare%20ordinary%20people%20for%20extraordinary%20destinies.&author=C.S%20Lewis"/>
+  </a>
+</div>
