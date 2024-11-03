@@ -6,10 +6,10 @@
 
 <div style="display: inline_block"><br>
   <a href="https://kzrobertkz.github.io/Dev_links/">
-      <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api?username=KzRobertkz&count_private=true&theme=midnight-purple&include_all_commits=true&show_icons=true" />
+      <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KzRobertkz&count_private=true&theme=midnight-purple&include_all_commits=true&show_icons=true" />
   </a>
   <a href="https://kzrobertkz.github.io/Dev_links/">
-    <img height="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzRobertkz&layout=compact&theme=midnight-purple" />
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzRobertkz&layout=compact&theme=midnight-purple" />
   </a>
 </div>
 
@@ -25,4 +25,6 @@
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 <img align="center" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+
+
 
