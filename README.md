@@ -38,10 +38,18 @@
   </picture>
 </div>
 
+<div align="center">
+  <h2 align="center">socials</h2><br>
+  <a href="https://www.linkedin.com/in/robert-christian-079313306/" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=robert.44azz@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div><br>
+
 ##
+
 
 <div align="center"><br><br>
   <a href="https://kzrobertkz.github.io/Dev_links/">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Difficulties%20prepare%20ordinary%20people%20for%20extraordinary%20destinies.&author=C.S%20Lewis"/>
   </a>
 </div>
+
