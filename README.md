@@ -1,6 +1,6 @@
 <h2 align="center">Hi there, Robert here!</h2>
 
-- 🧠 I'm learning JavaScript, Python and TailwindCSS framework
+- 🧠 I'm learning JavaScript, Python, React and TailwindCSS framework
 - 👨🏻‍💻 love at first sight for programming and the tech world in general
 - ✍🏻 currently living in maximum focus
 
