@@ -12,10 +12,12 @@
     </h2>
   </summary>
 
-  <h3>🔥 Streak Stats</h3>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=kzrobertkz&theme=midnight-purple&locale=pt_BR)](https://kzrobertkz.github.io/Dev_links/)
-  
+  <div align="center" style="display: inline_block">
+    <h3>🔥 Streak Stats</h3>
+    <a href="https://kzrobertkz.github.io/Dev_links/">
+      <img src="https://streak-stats.demolab.com?user=kzrobertkz&theme=midnight-purple&locale=pt_BR" height="180em" align="center" alt="GitHub Streak" />
+    </a>
+  </div>
 </details> 
 
 
