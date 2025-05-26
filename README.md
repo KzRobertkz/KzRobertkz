@@ -7,9 +7,9 @@
 
 <details> 
   <summary>
-    <h2>
+    <h3>
       <img src="https://www.svgrepo.com/show/254963/stats-business-and-finance.svg" width="25" height="25" alt="Typing SVG"> &nbsp;Stats and Activity 
-    </h2>
+    </h3>
   </summary>
 
   <div align="center" style="display: inline_block">
