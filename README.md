@@ -70,6 +70,7 @@
 
 ##
 
+<!--
 <details>
   <summary>
     <h4>🎧 Spotify Playing</h4>
@@ -80,3 +81,4 @@
   [![Spotify](https://readme-spotify.warengonzaga.com/api/spotify)](https://open.spotify.com/user/22rgvw4sv5kjmas7vpcy3jowi)
   
 </details>
+-->
