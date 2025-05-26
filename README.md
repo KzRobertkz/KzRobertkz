@@ -5,7 +5,18 @@
 - ✍🏻 currently living in maximum focus
 
 
+<details> 
+  <summary>
+    <h2>
+      <img src="https://www.svgrepo.com/show/254963/stats-business-and-finance.svg" width="25" height="25" alt="Typing SVG"> &nbsp;Stats and Activity 
+    </h2>
+  </summary>
 
+  <h3>🔥 Streak Stats</h3>
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=kzrobertkz&theme=midnight-purple&locale=pt_BR)](https://kzrobertkz.github.io/Dev_links/)
+  
+</details> 
 
 
 <div align="center" style="display: inline_block"><br>
