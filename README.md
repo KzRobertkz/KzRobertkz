@@ -68,8 +68,6 @@
   </a>
 </div>
 
-##
-
 <!--
 <details>
   <summary>
