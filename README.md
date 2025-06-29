@@ -51,7 +51,7 @@
   <img align="center" height="80" width="90" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="60" width="70" src="https://techstack-generator.vercel.app/docker-icon.svg" />
+  <img align="center" height="40" width="50" src="https://techstack-generator.vercel.app/docker-icon.svg" />
 </div>
 
 <div align="center">
