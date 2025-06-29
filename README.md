@@ -29,7 +29,7 @@
   <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
     <a href="https://wakatime.com/@KzRobertKz"><img width=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=KzRobertkz&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime"></a>
-</p>
+  </p>
 </details> 
 
 
