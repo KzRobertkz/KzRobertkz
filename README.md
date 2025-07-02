@@ -14,7 +14,7 @@
   <div align="center" style="display: inline_block">
     <h3>🔥 Streak Stats</h3>
       <a href="https://kzrobertkz.github.io/Dev_links/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=KzRobertkz&theme=midnight-purple&hide_border=false&locale=Pt-Br" height="180em" align="center" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=KzRobertkz&theme=midnight-purple&hide_border=true&locale=pt_BR" height="180em" align="center" alt="GitHub Streak" />
       </a>
     <h3>🕵️‍♂️ Profile Details</h3>
       <a href="https://kzrobertkz.github.io/Dev_links/">
