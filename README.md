@@ -22,7 +22,7 @@
       </a>
     <h3>🏆 Trophy Stats</h3>
       <a href="https://kzrobertkz.github.io/Dev_links/" >
-        <img src="https://github-profile-trophy.vercel.app/?username=kzrobertkz&theme=juicyfresh&margin-h=4&no-frame=true" align="center" alt="GitHub Trophy" />
+        <img src="https://github-profile-trophy.vercel.app/?username=KzRobertkz&theme=juicyfresh&margin-h=4&no-frame=true" align="center" alt="GitHub Trophy" />
       </a>
   </div>
 
