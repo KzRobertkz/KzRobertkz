@@ -33,7 +33,7 @@
   </p>
 </details> 
 
-
+<!--
 <div align="center" style="display: inline_block"><br>
   <a href="https://kzrobertkz.github.io/Dev_links/">
       <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KzRobertkz&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" />
@@ -42,6 +42,7 @@
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KzRobertkz&layout=compact&theme=midnight-purple" />
   </a>
 </div>
+-->
 
 
 <div align="center" style="display: inline_block">
