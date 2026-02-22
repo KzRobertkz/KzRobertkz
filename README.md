@@ -20,17 +20,21 @@
       <a href="https://kzrobertkz.github.io/Dev_links/">
         <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KzRobertkz&theme=midnight_purple" height="180em" align="center" alt="Profile Details" />
       </a>
+    <!--
     <h3>🏆 Trophy Stats</h3>
       <a href="https://kzrobertkz.github.io/Dev_links/" >
         <img src="https://github-profile-trophy.vercel.app/?username=KzRobertkz&theme=juicyfresh&margin-h=4&no-frame=true" align="center" alt="GitHub Trophy" />
       </a>
+    -->
   </div>
 
+  <!--
   <p align="center">
     <a href="https://wakatime.com/@KzRobertKz">
       <img width=600 src="https://github-readme-stats.vercel.app/api/wakatime?username=KzRobertkz&layout=compact&hide_title=true&display_format=percent&theme=transparent&hide_border=true" alt="wakatime" title="wakatime">
     </a>
   </p>
+  -->
 </details> 
 
 <!--
