@@ -49,20 +49,23 @@
 -->
 
 
-<div align="center" style="display: inline_block">
-  <h2>My Languages</h2><br>
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" height="90" width="100" src="https://techstack-generator.vercel.app/js-icon.svg" />
-  <img align="center" height="50" width="60" src="https://techstack-generator.vercel.app/python-icon.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img align="center" height="60" width="70" src="https://techstack-generator.vercel.app/react-icon.svg" />
-  <img align="center" height="80" width="90" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img align="center" height="50" width="60" src="https://techstack-generator.vercel.app/docker-icon.svg" />
+<div align="center">
+  <h2>My Languages</h2>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="50" width="60" src="https://techstack-generator.vercel.app/js-icon.svg" />
+    <img height="50" width="60" src="https://techstack-generator.vercel.app/python-icon.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="50" width="60" src="https://techstack-generator.vercel.app/react-icon.svg" />
+    <img height="50" width="60" src="https://techstack-generator.vercel.app/mysql-icon.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+    <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img height="50" width="60" src="https://techstack-generator.vercel.app/docker-icon.svg" />
+  </div>
 </div>
 
 <div align="center">
