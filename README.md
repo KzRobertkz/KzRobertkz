@@ -51,9 +51,6 @@
 
 <div align="center">
   <h2>My Languages</h2>
-  
-  <div align="center">
-  <h2>My Languages</h2>
 
   <table>
     <tr>
