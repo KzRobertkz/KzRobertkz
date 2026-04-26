@@ -70,6 +70,9 @@
         <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"><br>PostgreSQL</td>
         <td align="center"><img height="50" src="https://techstack-generator.vercel.app/docker-icon.svg"><br>Docker</td>
       </tr>
+      <tr>
+        <td align="center"><img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"><br>C</td>
+      </tr>
     </table>
 </div>
 
